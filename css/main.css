@@ -40,7 +40,6 @@ p:not(#tablep){
 #tablep {
   font-size: 16px;
   margin: 10px 0;
-  text-align: left;
 }
 
 h1,h2,h3,h4,h5,h6 {
