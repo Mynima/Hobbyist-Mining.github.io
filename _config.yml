@@ -25,13 +25,15 @@ navbar-links:
     - Traders Corner: "Trade"
     - Referrals: "Refer"
   Guides: 
-    - Mining and Staking: "CPU_GPU_Mining"
+    - Mining/Staking: "CPU_GPU_Mining"
     - Raspberry Pi Projects: "Pi_Projects"
   About Crypto:
-    - Project Info: "About_Crypto"
+    - Projects: "About_Crypto"
+    - NFTs: "NFTs"
     - Wallets: "Wallets_Transactions"
-    - Miscellaneous, Projects: "Miscellaneous_Projects"
+    - Miscellaneous, Articles: "Miscellaneous_Projects"
   Resources:
+    - Bitcoin Origins: "https://www.btcorigins.com/"
     - Profitability Calculator: "https://whattomine.com/"
     - Mining Pools: "https://2miners.com/"
     - Ravencoin: "https://ravencoin.org/"
