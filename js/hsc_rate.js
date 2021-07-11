@@ -36,7 +36,7 @@ function tosubmit() {
     localStorage.setItem("Num11", num11);
     localStorage.setItem("Num12", num12);
 
-    window.open("/hsc_page2/")
+    window.location.replace("/hsc_page2/")
     return true;
 }
 
