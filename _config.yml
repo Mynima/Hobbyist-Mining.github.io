@@ -24,13 +24,15 @@ navbar-links:
   Trade/Earn: 
     - Traders Corner: "Trade"
     - Referrals: "Refer"
-  Guides: 
+  Guides (inc. DeFi):
+    - DeFi: "defi"
     - Mining/Staking: "CPU_GPU_Mining"
     - Raspberry Pi Projects: "Pi_Projects"
   About Crypto:
     - Projects: "About_Crypto"
     - NFTs: "NFTs"
     - Wallets: "Wallets_Transactions"
+    - Research (DYOR): "hsc_page1"
     - Miscellaneous, Articles: "Miscellaneous_Projects"
   Resources:
     - Bitcoin Origins: "https://www.btcorigins.com/"
@@ -40,10 +42,10 @@ navbar-links:
     - Vertcoin: "https://vertcoin.org/"
     - Banano: "https://banano.cc/"
     - Batgrowth: "https://batgrowth.com/"
-    - Loopring Staking: "https://staking.loopring.org/"
     - Zapper: "https://www.zapper.fi/"
     - Swapzone: "https://swapzone.io/?refId=mynima"
     - Ampleforth ROI: "https://amplcalc.app/"
+    - Ampleforth Tools: "https://www.coin-tools.com/ampl/"
 
 # Nav Bar Image (must be square)
 avatar: "/images/Mynima.jpg"
@@ -89,7 +91,7 @@ social-network-links:
 #  email: "someone@example.com"
 #  facebook: deanattali
   github: Mynima
-#  twitter: daattali
+  twitter: Mynima4
   reddit: Mynima
 #  linkedin: daattali
 #  xing: yourname
@@ -107,6 +109,7 @@ social-network-links:
 share-links-active:
   reddit: true
   github: true
+  twitter: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
